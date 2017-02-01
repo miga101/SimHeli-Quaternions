@@ -1,0 +1,11 @@
+# Max2Mtl Version 3.0, Jul 11th, 1999
+#
+newmtl Elice_cola
+Ka  0.3804 0.3804 0.3804
+Kd  0.2314 0.2314 0.2314
+Ks  0.4 0.4 0.4
+d  1.0000
+Ns  32.7000
+illum 2
+#
+# EOF

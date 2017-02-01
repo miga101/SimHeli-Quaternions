@@ -1,0 +1,27 @@
+# Max2Mtl Version 3.0, Jul 11th, 1999
+#
+newmtl Motor_claro
+Ka  0.38 0.38 0.38
+Kd  0.56 0.56 0.56
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  32.70
+illum 2
+#
+newmtl Motor_oscuro
+Ka  0.38 0.38 0.38
+Kd  0.16 0.16 0.16
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  32.70
+illum 2
+#
+newmtl Madera
+Ka  0.51 0.45 0.42
+Kd  0.60 0.48 0.25
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  24.50
+illum 2
+#
+# EOF

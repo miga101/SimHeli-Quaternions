@@ -1,0 +1,18 @@
+
+newmtl ventanas
+Kd 0.3 0.3 0.3
+newmtl ruedas
+Kd 0.0 0.0 0.0
+newmtl Av_cuerpo
+Ka 0.4000 0.4000 0.4000
+Kd 0.7000 0.7302 0.7302
+Ks 0.9000 0.9000 0.9000
+illum 2
+Ns 60.0000
+newmtl Av_alas
+Ka 0.4000 0.4000 0.4000
+Kd 0.5 0.5 0.55
+Ks 0.9000 0.9000 0.9000
+illum 10
+Ns 125.0000
+

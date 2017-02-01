@@ -1,0 +1,11 @@
+# Max2Mtl Version 3.0, Jul 11th, 1999
+#
+newmtl patas
+Ka  0.21 0.21 0.21
+Kd  0.68 0.68 0.68
+Ks  0.4 0.4 0.4
+d  1.00
+Ns  9.10
+illum 2
+#
+# EOF
